@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-#3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-#000000?style=flat-square&logo=Flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-#4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3#7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
