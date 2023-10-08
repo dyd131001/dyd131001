@@ -38,7 +38,7 @@ Here are some ideas to get you started:
  <br/>
  <br/>
   
-####  :clipboard: Once I've Used 
+####  :clipboard: Tech
   
  <br/>
   
@@ -48,17 +48,23 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Kotlin-3#7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
 
+
+  <br/>
+  <br/>
+
+#### :pencil2: BOJ
+ 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xxx1310)](https://solved.ac/xxx1310/)
  
    <br/>
    <br/>
  
-#### :pencil2: Study log
+#### :pencil2: Top Langs
  
   <br/>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyd131001&include_all_commits=true&count_private=true&show_icon=true&theme=radical)](https://github.com/dyd131001/github-readme-stats)
 
 
-  
 </div>
 
