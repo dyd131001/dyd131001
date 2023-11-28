@@ -18,11 +18,12 @@ Here are some ideas to get you started:
 * 오식이 (사용자별 메뉴 추천 어플리케이션) (https://github.com/dyd131001/MoAppTeam4)
 * MyAIFriend (dialoGPT 기반 영어 회화 웹사이트) (https://github.com/KNU-bigdata6/bigdata6)
 
+ <br/>
+ 
 ### Toy Project
 * Tikkel (Flooting window 광고 어플리케이션) (https://github.com/tikkel-project/tikkel)
 
 
- <br/>
  <br/>
   
 
@@ -35,18 +36,19 @@ Here are some ideas to get you started:
 
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=dyd1310&color=defalult)](https://dyd1310.tistory.com/)
 
-
  <br/>
   
 ## Tech
   
  <br/>
   
-<img src="https://img.shields.io/badge/Python-3DDC84?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-3#7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-000000?style=flat-square&logo=Kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android Studio-000000?style=flat-square&logo=Android Studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-000000?style=flat-square&logo=Spring Boot&logoColor=white"/>
 
 
   <br/>
