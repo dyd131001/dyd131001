@@ -54,7 +54,7 @@ Here are some ideas to get you started:
   <br/>
   <br/>
 
-## BOJ
+## [BOJ](https://github.com/dyd131001/BOJ-python)
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xxx1310)](https://solved.ac/xxx1310/)
  
