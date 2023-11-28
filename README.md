@@ -14,18 +14,19 @@ Here are some ideas to get you started:
 -->
 
 
-<div align="center"> 
+# Projects
+* 오식이 (사용자별 메뉴 추천 어플리케이션)
+* MyAIFriend (dialoGPT 기반 영어 회화 웹사이트)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=3DDC84&height=150&section=header&animation=fadeIn&desc=%20&descAlignY=42&descAlign=42)
+### Toy Project
+* Tikkel (Flooting window 광고 어플리케이션) (https://github.com/tikkel-project/tikkel)
+
+
+ <br/>
+ <br/>
   
-####  :wave: Welcome to my github !
-<br>
 
-![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyd131001&show_icons=true&theme=transparent)
-
-<br/>
-
-## 💻 DEV's log 💻
+## DEV's log
 <div style="display:flex; flex-direction:row;">
     <a href="https://dyd131001.tistory.com">
         <img src="https://img.shields.io/badge/
@@ -34,11 +35,10 @@ Here are some ideas to get you started:
 
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=dyd1310&color=defalult)](https://dyd1310.tistory.com/)
 
-  
+
  <br/>
- <br/>
   
-####  :clipboard: Tech
+## Tech
   
  <br/>
   
@@ -52,19 +52,9 @@ Here are some ideas to get you started:
   <br/>
   <br/>
 
-#### :pencil2: BOJ
+## BOJ
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xxx1310)](https://solved.ac/xxx1310/)
  
    <br/>
    <br/>
- 
-#### :pencil2: Top Langs
- 
-  <br/>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyd131001&include_all_commits=true&count_private=true&show_icon=true&theme=radical)](https://github.com/dyd131001/github-readme-stats)
-
-
-</div>
-
