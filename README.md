@@ -22,10 +22,10 @@ Here are some ideas to get you started:
  
 ### Toy Project
 * [Tikkel (Flooting window 광고 어플리케이션)](https://github.com/tikkel-project/tikkel)
-
+* [우아한테크코스 java 프리코스 모음](https://github.com/dyd131001/woowacourse-project)
+* [AI관련 소규모 프로젝트 모음](https://github.com/dyd131001/AI_study)
 
  <br/>
-  
 
 ## DEV's log
 <div style="display:flex; flex-direction:row;">
