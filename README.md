@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 
 
 # Projects
-* [오식이 (사용자별 메뉴 추천 어플리케이션)] (https://github.com/dyd131001/MoAppTeam4)
-* [MyAIFriend (dialoGPT 기반 영어 회화 웹사이트)] (https://github.com/KNU-bigdata6/bigdata6)
+* [오식이 (사용자별 메뉴 추천 어플리케이션)](https://github.com/dyd131001/MoAppTeam4)
+* [MyAIFriend (dialoGPT 기반 영어 회화 웹사이트)](https://github.com/KNU-bigdata6/bigdata6)
 
  <br/>
  
 ### Toy Project
-* [Tikkel (Flooting window 광고 어플리케이션)] (https://github.com/tikkel-project/tikkel)
+* [Tikkel (Flooting window 광고 어플리케이션)](https://github.com/tikkel-project/tikkel)
 
 
  <br/>
